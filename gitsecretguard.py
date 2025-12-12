@@ -104,3 +104,4 @@ if __name__ == "__main__":
 # #!/bin/sh
 # python gitsecretguard.py
 # Make executable: chmod +x .git/hooks/pre-commit
+# Run following command to output json file after full scan: python gitsecretguard.py --full --report output.json

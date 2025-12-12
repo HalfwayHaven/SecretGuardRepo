@@ -1,0 +1,14 @@
+{
+    "findings": [
+        {
+            "file": ".\\test.py",
+            "line": 1,
+            "match": "api_key = \"AKIA1234567890ABCDEF\""
+        },
+        {
+            "file": ".\\test2.py",
+            "line": 1,
+            "match": "api_key = \"AKIA1234567890ABCDEF\""
+        }
+    ]
+}
